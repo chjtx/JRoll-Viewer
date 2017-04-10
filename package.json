@@ -1,0 +1,22 @@
+{
+  "name": "jroll-viewer",
+  "version": "0.2.2",
+  "description": "一款基于JRoll开发的图集查看器插件",
+  "main": "jroll-viewer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chjtx/JRoll-Viewer.git"
+  },
+  "keywords": [
+    "jroll-viewer"
+  ],
+  "author": "BarZu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chjtx/JRoll-Viewer/issues"
+  },
+  "homepage": "https://github.com/chjtx/JRoll-Viewer#readme"
+}
